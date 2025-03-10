@@ -1,5 +1,6 @@
 # 💫 About Me:
 Just your usual developer, nothing special 🌸
+Although I have had experience in Ruby, Go, and Rust, they are not my preferred programming languages.
 
 
 ## 🌐 Socials:
